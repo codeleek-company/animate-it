@@ -1,15 +1,19 @@
-## DEV <img src="https://scontent.fcai22-4.fna.fbcdn.net/v/t39.30808-6/354262053_118580681263551_2140061046569093118_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=09cbfe&_nc_ohc=0wE09JkJ4IEAX_nSkEJ&_nc_ht=scontent.fcai22-4.fna&oh=00_AfAVwXmN-VKeD2qbsHoZR7WoZqebPwzM72xK_jRlwQNRpQ&oe=64941B39" alt="drawing" width="200" style="border-radius: 50%; display: block" />
+# DEV <img src="https://scontent.fcai22-4.fna.fbcdn.net/v/t39.30808-6/354262053_118580681263551_2140061046569093118_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=09cbfe&_nc_ohc=0wE09JkJ4IEAX_nSkEJ&_nc_ht=scontent.fcai22-4.fna&oh=00_AfAVwXmN-VKeD2qbsHoZR7WoZqebPwzM72xK_jRlwQNRpQ&oe=64941B39" alt="drawing" width="200" style="border-radius: 50%; display: block" />
 
-### Anim
+## Anim
 
 ---
 
 - [Installation](#Installation)
+  - [Download](#Download)
+  - [NPM-Installation](#NPM-Installation)
 - [Docs](#Docs)
 
 ---
 
-#### Installation
+### Installation
+
+#### Download
 
 - First of all, you are going to include the js file `anim.min.js`, or rather `anim.js` for developers.
   Then, you are going to add the `anim.min.css`, or rather `anim.css` for developers which is the style file.
@@ -24,7 +28,19 @@
 
 ---
 
-#### Docs
+#### NPM-Installation
+
+- Run `npm i dev-animate`.
+
+- Then include the animate script `<script src="./node_modules/dev-animate/js/anim.min.js"></script>`.
+
+- Then include the animate style `<link type="stylesheet" href="./node_modules/dev-animate/css/anim.min.css" />`.
+
+- Also you can include any theme you want from the `./node_modules/dev-animate/css/themes/` folder
+
+---
+
+### Docs
 
 There are various built-in functions in this library.
 
