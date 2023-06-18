@@ -1,7 +1,7 @@
 # DEV 
 
 <div style="display: flex; justify-content: space-between;"><img src="https://scontent.fcai22-4.fna.fbcdn.net/v/t39.30808-6/354262053_118580681263551_2140061046569093118_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=09cbfe&_nc_ohc=0wE09JkJ4IEAX_nSkEJ&_nc_ht=scontent.fcai22-4.fna&oh=00_AfAVwXmN-VKeD2qbsHoZR7WoZqebPwzM72xK_jRlwQNRpQ&oe=64941B39" alt="drawing" width="200" style="border-radius: 50%;" />
-  <img src="https://scontent.fcai22-4.fna.fbcdn.net/v/t39.30808-6/352563104_119099257878360_5006024896091772594_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=730e14&_nc_ohc=0wPDyupSVkYAX-PYqDJ&_nc_ht=scontent.fcai22-4.fna&oh=00_AfBQ0LCs36CJfhi3rqzOMC_ZMHF9ciEQs0WyjZFfrAknQg&oe=6494CC60" alt="drawing" width="200" style="padding: 10px; border-radius: 50%; display: block" />
+  <img src="https://scontent.fcai22-4.fna.fbcdn.net/v/t39.30808-6/352563104_119099257878360_5006024896091772594_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=730e14&_nc_ohc=0wPDyupSVkYAX-PYqDJ&_nc_ht=scontent.fcai22-4.fna&oh=00_AfBQ0LCs36CJfhi3rqzOMC_ZMHF9ciEQs0WyjZFfrAknQg&oe=6494CC60" alt="drawing" width="200" />
 </div>
 
 ## Anim
