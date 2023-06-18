@@ -58,3 +58,6 @@ and you can add callback function, which will be called when the second action `
 
 2 - `alerter(massage)`. Which is an enhanced alerter instead of the `window.alert(massage)`, because `window.alert(massage)`
 is a sync process.
+
+3- `pop_up(subject (optional), text (optional), btn1_context (optional))`. It is like `pop_up_choice()`, but with no return,
+with only one choice. Actually, you can say that it is a toggle alerter.
