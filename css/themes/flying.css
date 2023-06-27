@@ -1,0 +1,63 @@
+/* .--pop-up {
+  width: 400px !important;
+  margin-left: auto;
+  margin-right: auto;
+  position: relative;
+  border-radius: 20px;
+} */
+.--paper div {
+  display: flex;
+  justify-content: flex-end;
+  position: absolute;
+  background-color: inherit;
+  padding: 20px;
+  transform: translate(-10px, 30px);
+  /* border-radius: 20px; */
+  right: 0;
+}
+.frame-1 {
+  transform: rotate(-3deg) translate(-120px, -100px);
+  opacity: 1;
+  transition: none !important;
+}
+.frame-1 h2 {
+  transform: rotate(-3deg) translate(-20px, -10px);
+}
+.frame-2 {
+  transform: rotate(-4deg) translate(-80px, -100px);
+}
+.frame-3 {
+  transform: rotate(-2deg) translate(-10px, -30px);
+}
+.frame-4 {
+  transform: rotate(0deg) translate(0px, 0px);
+}
+/* .frame-2 h2{
+  transform: rotate(-4deg) translate(-80px, -100px);
+} */
+.frame-3 h2 {
+  transform: rotate(-2deg) translate(-10px, -30px);
+}
+.frame-4 h2 {
+  transform: rotate(0deg) translate(0px, 0px);
+}
+.--paper {
+  background-image: url("../../123.jpg");
+  background-size: cover;
+  width: calc(100% - 20px);
+  margin: 10px;
+  padding: 20px 50px;
+  position: relative;
+  color: black;
+}
+.--indent-paper {
+  background-image: url("../../123.jpg");
+  background-size: cover;
+}
+.--paper h2,
+.--paper p {
+  background-image: url("../../123.jpg");
+  background-size: cover;
+  box-shadow: 0 0 8px 0 #333;
+  padding: 5px 15px;
+}
